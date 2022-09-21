@@ -1,0 +1,140 @@
+.top-container {
+    background-color: #E4F9F5;
+    position: relative;
+    padding: 100px 0 0 0;
+}
+
+.middle-container {
+    margin: 100px 0;
+}
+
+.intro {
+    width: 30%;
+    margin:auto;
+}
+
+.profile-pic {
+    border-radius: 50%;
+    width:150px;
+    height:150px;
+}
+
+.programmer-image {
+    width:150px;
+    height:150px;
+    float: left;
+    margin: 0 30px 0 0;
+}
+
+.karateka-image {
+    width:150px;
+    height:150px;
+    float: right;
+    margin: 0 0 0 30px;
+}
+
+.skill-row {
+    width:50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color:#40514e;
+}
+
+.top-cloud{
+    position: absolute;
+    right:300px;
+    top:40px;
+}
+
+p{
+    line-height: 2;
+}
+
+h1{
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    line-height: 2;
+}
+
+h2, h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1, h2 {
+    color: #66bfbf;
+}
+
+h2 {
+    font-weight: normal;
+    padding: 0 0 10px 0;
+}
+
+h3, a {
+    color: #11999e;
+}
+
+h2 {
+    font-size: 2.5rem;
+}
+
+hr {
+    border: dotted #eaf6f6 6px;
+    border-bottom: none;
+    width:4%;
+    margin: 100px auto;
+}
+
+.bottom-cloud {
+    position:absolute;
+    left: 250px;
+    bottom: 300px;
+}
+
+a {
+    color:#11999e;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #eaf6f6;
+}
+
+.btn {
+    background: linear-gradient(to bottom, #11cdd4, #11999e);
+    border-radius: 8px;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+  
+.btn:hover {
+    background: linear-gradient(to bottom, #3cb0fd, #2bc4ad);
+    text-decoration: none;
+}
+
+.bottom-container {
+    background-color: #66bfbf;
+    padding: 50px 0 20px;
+}
+
+.contact-message {
+    width:40%;
+    margin: 40px auto 60px;
+}
+
+.copyright {
+    color: #eaf6f6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
